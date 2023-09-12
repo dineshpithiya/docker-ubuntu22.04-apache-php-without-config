@@ -19,7 +19,7 @@ Table of Contents
 Build the image yourself.
 
 ```bash
-git clone https://github.com/dineshpithiya/docker-ubuntu22.04-apache-php.git
+git clone https://github.com/dineshpithiya/docker-ubuntu22.04-apache-php-without-config.git
 cd docker-ubuntu22.04-apache-php
 docker build --tag core-php-apache-app .
 ```
