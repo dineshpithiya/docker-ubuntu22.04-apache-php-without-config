@@ -1,4 +1,4 @@
-#   Simple PHP 8.2 image
+#   Build PHP and apache2 image without configuration file
 -------------------
 Created image for the php 8.2, apache2 using ubuntu 22.04 latest LTS version.
 
